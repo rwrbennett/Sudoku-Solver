@@ -1,6 +1,6 @@
 # Sudoku-Solver
 A simple sudoku solver
 
-A command line sudoku solver written in C.
+A simple sudoku solver consisting of a C# UI and a C dll containing the logic to solve the sudoku puzzles.
 
-Modified to compile the solver engine as a dll and added a C# UI.
+
